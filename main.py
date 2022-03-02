@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 
 import sys
-# import math
 
 def string_to_int(str_number):
     dig_map = {'0':0, '1':1, '2':2, '3':3, '4':4, '5':5, '6':6, '7':7, '8':8, '9':9}
@@ -35,4 +34,3 @@ if __name__ == "__main__":
     # print ("Factorial of {} is {}".format(number, factorial))
     sum_of_digits = calc_sum_of_digits(factorial)
     print (sum_of_digits)
-
