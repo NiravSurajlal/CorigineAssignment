@@ -10,6 +10,7 @@ This program was designed using _python3_ and includes the _sys_ library. It was
 
 ## Example Usage
 For a given positive integer **N**, the code calculates N! and then the sum of that answer. The results are displayed in the command line. 
+
     $ docker run --rm factorial-digits 10
     27
     $ docker run --rm factorial-digits 100
