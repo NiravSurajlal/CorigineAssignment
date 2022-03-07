@@ -10,7 +10,7 @@ This program was designed using _python3_ and includes the _sys_ library. It was
 
 ## Installation
     1. Clone the repo: 
-        $ https://github.com/NiravSurajlal/CorigineAssignment.git
+        $ git clone https://github.com/NiravSurajlal/CorigineAssignment.git
     2. Navigate to the project folder:
         $ cd <path>/CorigineAssignment
     3. Build the Docker container:
