@@ -5,8 +5,9 @@ This program takes a single integer argument and computes its factorial. It then
 This program was designed using _python3_ and includes the _sys_ library. It was developed to run in a Docker container.
 
 ## Files
-    1. main.py      - python file containing the code
-    2. Dockerfile   - creates Docker container
+    1. main.py          - python file containing the code
+    2. Dockerfile       - creates Docker container
+    3. requirements.txt - contains dependencies required
 
 ## Installation
     1. Clone the repo: 
